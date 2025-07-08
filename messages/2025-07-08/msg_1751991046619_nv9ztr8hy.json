@@ -1,0 +1,28 @@
+{
+  "id": "msg_1751991046619_nv9ztr8hy",
+  "timestamp": "2025-07-08T16:10:46.619Z",
+  "payload": {
+    "messages": [
+      {
+        "messageId": "216d8806-fa19-4191-aa08-6f860c3d7c9e",
+        "dateTime": "2025-07-08T16:10:00.001Z",
+        "channelId": "9f635cf7-1ee8-4fab-be65-d91ca6eadc70",
+        "chatType": "whatsapp",
+        "chatId": "5493472545329",
+        "type": "audio",
+        "isEcho": false,
+        "contact": {
+          "name": "Martin Aused",
+          "avatarUri": "https://store.wazzup24.com/aa201693062e1b8a5f96e2662e9586ae7f694621"
+        },
+        "contentUri": "https://store.wazzup24.com/c7a7bca615ef4fc775502f88c17c4af35cb187f2/?filename=09efc124-58f6-4099-b83e-37ddf6fe33b1.mp3",
+        "status": "inbound"
+      }
+    ]
+  },
+  "headers": {
+    "content-type": "application/json",
+    "user-agent": "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",
+    "host": "conversapp-dye.vercel.app"
+  }
+}
