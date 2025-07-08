@@ -1,0 +1,20 @@
+{
+  "id": "msg_1752005057221_a25liefs4",
+  "timestamp": "2025-07-08T20:04:17.221Z",
+  "payload": {
+    "chatType": "whatsapp",
+    "type": "text",
+    "text": "?? MENSAJE DESPU�S DEL DESPLIEGUE - Verificando endpoint messages",
+    "messageId": "test-post-deploy-20250708170417",
+    "timestamp": "2025-07-08T20:04:17.010Z",
+    "channelId": "9f635cf7-1ee8-4fab-be65-d91ca6eadc70",
+    "senderId": "test-sender-deploy",
+    "senderName": "Test Post Deploy",
+    "chatId": "test-chat-post-deploy"
+  },
+  "headers": {
+    "content-type": "application/json",
+    "user-agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; es-AR) WindowsPowerShell/5.1.19041.6033",
+    "host": "conversapp-dye.vercel.app"
+  }
+}
