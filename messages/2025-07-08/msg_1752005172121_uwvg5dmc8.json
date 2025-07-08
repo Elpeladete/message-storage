@@ -1,0 +1,20 @@
+{
+  "id": "msg_1752005172121_uwvg5dmc8",
+  "timestamp": "2025-07-08T20:06:12.121Z",
+  "payload": {
+    "chatType": "whatsapp",
+    "type": "text",
+    "text": "?? SEGUNDO MENSAJE DE PRUEBA - Verificando persistencia",
+    "messageId": "test-second-20250708170612",
+    "timestamp": "2025-07-08T20:06:12.042Z",
+    "channelId": "9f635cf7-1ee8-4fab-be65-d91ca6eadc70",
+    "senderId": "test-sender-2",
+    "senderName": "Test Segundo",
+    "chatId": "test-chat-second"
+  },
+  "headers": {
+    "content-type": "application/json",
+    "user-agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; es-AR) WindowsPowerShell/5.1.19041.6033",
+    "host": "conversapp-dye.vercel.app"
+  }
+}
