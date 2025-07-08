@@ -1,0 +1,20 @@
+{
+  "id": "msg_1751991447439_sh31bl4zh",
+  "timestamp": "2025-07-08T16:17:27.439Z",
+  "payload": {
+    "createDeal": {
+      "responsibleUserId": "1",
+      "pipelineId": "LEADS",
+      "stageId": "NEW",
+      "contacts": [
+        11007
+      ],
+      "source": "auto"
+    }
+  },
+  "headers": {
+    "content-type": "application/json",
+    "user-agent": "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",
+    "host": "conversapp-dye.vercel.app"
+  }
+}
